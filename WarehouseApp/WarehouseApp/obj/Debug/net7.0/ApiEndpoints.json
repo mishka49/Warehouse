@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WarehouseApp.UI.Controllers.DepartmentController",
+    "Method": "GetAllDepartments",
+    "RelativePath": "api/Department",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
