@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\dtos\\workercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\dtos\\workercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\departmentservice\\idepartmetnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\departmentservice\\idepartmetnservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\dtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\dtos\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\warehouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\warehouseapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\migrations\\20240218144024_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\migrations\\20240218144024_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\workerservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\workerservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|c:\\different\\c#\\innowisegroup\\warehouse\\warehouse\\warehouseapp\\warehouseapp\\services\\workerservice\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7982F3FF-31A5-4690-BFD2-855C0D5D01D7}|WarehouseApp\\WarehouseApp.csproj|solutionrelative:warehouseapp\\services\\workerservice\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartmetnService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\DepartmentService\\IDepartmetnService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\DepartmentService\\IDepartmetnService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\DepartmentService\\IDepartmetnService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\DepartmentService\\IDepartmetnService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:48:46.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwA0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:59:47.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:58:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "WarehouseApp\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:52:56.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:42:40.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:20:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerCreateDto.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\WorkerCreateDto.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\DTOs\\WorkerCreateDto.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\WorkerCreateDto.cs",
+              "RelativeToolTip": "WarehouseApp\\DTOs\\WorkerCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:53:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\DepartmentService\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\DepartmentService\\DepartmentService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\DepartmentService\\DepartmentService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\DepartmentService\\DepartmentService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:53:04.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Product.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:34:59.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Worker.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Worker.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Worker.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T09:47:05.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\DTOs\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\DTOs\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "WarehouseApp\\DTOs\\DepartmentCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:53:06.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WarehouseApp\\appsettings.json",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\appsettings.json",
+              "RelativeToolTip": "WarehouseApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T18:05:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Models\\Department.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Models\\Department.cs",
+              "RelativeToolTip": "WarehouseApp\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T06:16:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WarehouseApp.csproj",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeDocumentMoniker": "WarehouseApp\\WarehouseApp.csproj",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
+              "RelativeToolTip": "WarehouseApp\\WarehouseApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T06:15:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Warehouse3\\WarehouseApp\\WarehouseApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\..\\Warehouse3\\WarehouseApp\\WarehouseApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:51:14.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\..\\Warehouse3\\WarehouseApp\\WarehouseApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\..\\Warehouse3\\WarehouseApp\\WarehouseApp\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:59:50.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Program.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Program.cs",
+              "RelativeToolTip": "WarehouseApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:35:51.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Controllers\\WorkersController.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "WarehouseApp\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:01:17.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WarehouseApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T16:48:34.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240218144024_init.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Migrations\\20240218144024_init.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Migrations\\20240218144024_init.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Migrations\\20240218144024_init.cs",
+              "RelativeToolTip": "WarehouseApp\\Migrations\\20240218144024_init.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T17:50:40.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IWorkerService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\WorkerService\\IWorkerService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\WorkerService\\IWorkerService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\WorkerService\\IWorkerService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\WorkerService\\IWorkerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:45:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\WorkerService\\WorkerService.cs",
+              "RelativeDocumentMoniker": "WarehouseApp\\Services\\WorkerService\\WorkerService.cs",
+              "ToolTip": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\Services\\WorkerService\\WorkerService.cs",
+              "RelativeToolTip": "WarehouseApp\\Services\\WorkerService\\WorkerService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:42:57.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
