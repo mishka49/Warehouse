@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WarehouseApp.DTOs;
 using WarehouseApp.Models;
 using WarehouseApp.Services.DepartmentService;
 
@@ -37,14 +38,14 @@ namespace WarehouseApp.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Department>> AddDepartment(Department department)
+        public async Task<ActionResult<Department>> AddDepartment(DepartmentCreateDto department)
         {
             var result = await _departmentService.AddDepartment(department);
 
             if (result is null)
                 return BadRequest();
 
-            return Ok(result);
+            return Created("",result);
         }
 
         [HttpPut("{id}")]

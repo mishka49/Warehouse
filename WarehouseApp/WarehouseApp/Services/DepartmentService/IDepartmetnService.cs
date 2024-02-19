@@ -1,4 +1,5 @@
-﻿using WarehouseApp.Models;
+﻿using WarehouseApp.DTOs;
+using WarehouseApp.Models;
 
 namespace WarehouseApp.Services.DepartmentService
 {
@@ -6,7 +7,7 @@ namespace WarehouseApp.Services.DepartmentService
     {
         Task<List<Department>> GetAllDepartments();
         Task<Department?> GetDepartment(int id);
-        Task<Department?> AddDepartment(Department department);
+        Task<Department?> AddDepartment(DepartmentCreateDto department);
         Task<Department?> UpdateDepartment(int id, Department department);
         Task<Department?> DeleteDepartment(int id);
 

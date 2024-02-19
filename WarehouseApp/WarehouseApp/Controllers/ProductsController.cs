@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WarehouseApp.DTOs;
 using WarehouseApp.Models;
 using WarehouseApp.Services.ProductService;
 
@@ -17,13 +18,13 @@ namespace WarehouseApp.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Product>>> GetWorkers()
+        public async Task<ActionResult<List<Product>>> GetProducts()
         {
             return await _productService.GetAllProducts();
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<List<Worker>>> GetSingleWorker(int id)
+        public async Task<ActionResult<List<Worker>>> GetSingleProduct(int id)
         {
             var result = await _productService.GetProduct(id);
 
@@ -34,7 +35,7 @@ namespace WarehouseApp.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult<Worker>> AddWorker(Product product)
+        public async Task<ActionResult<Worker>> AddProduct(Product product)
         {
             var result = await _productService.AddProduct(product);
 
@@ -45,7 +46,7 @@ namespace WarehouseApp.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<Worker>> UpdateWorkers(int id, Product product)
+        public async Task<ActionResult<Worker>> UpdateProduct(int id, Product product)
         {
             var result = await _productService.UpdateProduct(id, product);
 
@@ -56,7 +57,7 @@ namespace WarehouseApp.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Worker>> DeleteWorkers(int id)
+        public async Task<ActionResult<Worker>> DeleteProduct(int id)
         {
             var result = await _productService.DeleteProduct(id);
 

@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc.ApiExplorer;
-using Microsoft.EntityFrameworkCore;
-using System.ComponentModel;
+﻿using Microsoft.EntityFrameworkCore;
 using WarehouseApp.Data;
+using WarehouseApp.DTOs;
 using WarehouseApp.Models;
 
 namespace WarehouseApp.Services.DepartmentService
@@ -15,12 +14,23 @@ namespace WarehouseApp.Services.DepartmentService
             _context = context;
         }
 
-        public async Task<Department> AddDepartment(Department department)
+        public async Task<Department> AddDepartment(DepartmentCreateDto request)
         {
-            _context.Departments.Add(department);
+            var newDepartment = new Department
+            {
+                Name = request.Name,
+            };
+
+            var products = request.Products.Select(p => new Product { Name = p.Name, Department = newDepartment }).ToList();
+            var workers = request.workers.Select(w => new Worker { FirstName = w.FirstName, LastName = w.LastName, Departments = new List<Department> { newDepartment } }).ToList();
+            
+            newDepartment.Products = products;
+            newDepartment.Workers = workers;
+
+            _context.Departments.Add(newDepartment);
             await _context.SaveChangesAsync();
 
-            return department;
+            return newDepartment;
         }
 
         public async Task<Department> DeleteDepartment(int id)

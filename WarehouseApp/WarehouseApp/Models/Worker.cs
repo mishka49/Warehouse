@@ -1,4 +1,6 @@
-﻿namespace WarehouseApp.Models
+﻿using System.Text.Json.Serialization;
+
+namespace WarehouseApp.Models
 {
     public class Worker
     {
@@ -8,6 +10,7 @@
 
         public string LastName { get; set; } = string.Empty;
 
+        [JsonIgnore]
         public List<Department> Departments { get; set; } = new();
     }
 }

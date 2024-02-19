@@ -9,6 +9,7 @@ namespace WarehouseApp.Models
         public string Name { get; set; } = string.Empty;
 
         public int DepartmentId { get; set; }
+
         [JsonIgnore]
         public Department Department { get; set; } = null!;
     }

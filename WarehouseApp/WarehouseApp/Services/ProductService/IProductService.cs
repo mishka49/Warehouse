@@ -1,4 +1,5 @@
-﻿using WarehouseApp.Models;
+﻿using WarehouseApp.DTOs;
+using WarehouseApp.Models;
 
 namespace WarehouseApp.Services.ProductService
 {

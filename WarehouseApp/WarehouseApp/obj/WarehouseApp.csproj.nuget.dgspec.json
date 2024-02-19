@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj": {}
+    "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj": {}
   },
   "projects": {
-    "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj": {
+    "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
+        "projectUniqueName": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
         "projectName": "WarehouseApp",
-        "projectPath": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
+        "projectPath": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\WarehouseApp.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse3\\WarehouseApp\\WarehouseApp\\obj\\",
+        "outputPath": "C:\\Different\\C#\\InnowiseGroup\\WareHouse\\Warehouse\\WarehouseApp\\WarehouseApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
